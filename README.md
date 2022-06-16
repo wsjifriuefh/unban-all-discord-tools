@@ -1,2 +1,1 @@
-# unban-all-discord-tools
-You can unball all with me :)
+Please make a sure to create empty test.txt file
